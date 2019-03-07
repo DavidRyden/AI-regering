@@ -2,7 +2,9 @@
 Hur man skapar ett neuralt nätverk som skriver sina egna Regeringsförklaringar!
 
 Detta projekt är en dokumentation av det arbete som ligger bakom AI-regering som jag och min kollega Filip Wästberg skapade hösten 2018,
-då vi 3 månader efter valet tröttnade på att vänta en ny regering. Arbetet uppmärksammades
+då vi 3 månader efter valet tröttnade på att vänta en ny regering. 
+
+Arbetet uppmärksammades
 [i Aftonbladet TV / TV3](https://www.aftonbladet.se/tv/a/272538)
 och notebooken i detta projekt presenterades på [Stockholm data science meetup](https://www.meetup.com/Stockholm-Data-Science/events/259086585/?comment_table_id=261071893&comment_table_name=reply) 
 
