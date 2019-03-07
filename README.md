@@ -16,4 +16,6 @@ Den här är tyvärr sparsamt dokumenterad, men om du vill använda dig av en ti
 ## Övriga filer
 
 Alla PNG-filer är bara en del av min presentation: de syns även i notebooken
+
+
 regf_master.h5 - är modell-filen som vi använde
